@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "mapViewViewController.viewDidLoad():mapViewViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.locations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.locationManager(_:didUpdateLocations:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "  self.locations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mainViewController.locationManager(_:didUpdateLocations:):mainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "        self.locations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "mach_msg_trap:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.locations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
